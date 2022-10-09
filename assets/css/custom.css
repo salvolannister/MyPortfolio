@@ -6,3 +6,17 @@ https://templatemo.com/tm-561-purple-buzz
 */
 
 
+.cardm {
+    align-items: center;
+}
+
+.cardm-img,
+.cardm-img-top,
+.cardm-img-bottom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    margin-bottom: 0.75rem;
+}
