@@ -3,7 +3,7 @@ This is the code of my portfolio that I will host in the siteground domain with 
 
 # OBJECTIVE 
 - Showcase the work I am capable of and my project done during free time
-- transpose all the content from https://salvatoregurzi.portfoliobox.net/
+- Transpose all the content from https://salvatoregurzi.portfoliobox.net/
 # TODO - CONTENT
 - Delete all the unecessary written parts
 - Delete work part
@@ -12,6 +12,7 @@ This is the code of my portfolio that I will host in the siteground domain with 
 - Add content for XR Collaboration
 - Add content for One Piece mini game
 - Add content for shooter game with images
+- Convert all the images to jpg in order to reduce space on the DB and energy consumption
 
 # TODO - ABOUT
 - add capabilities written in short
