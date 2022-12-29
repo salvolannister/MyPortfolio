@@ -18,7 +18,7 @@ This is the code of my portfolio that I will host in the siteground domain with 
 - add capabilities written in short
 - delete all the unused parts 
 
-# TODO -  MAIN BAR
+# TODO - MAIN BAR
 - Delete contact part
 
 #HOW TO
