@@ -25,4 +25,7 @@ This is the code of my portfolio that I will host in the siteground domain with 
 - Delete contact part
 
 #HOW TO
-- To create the thumbnail with gimp: crop the image to the ratio you want (eg. 1:1) then scale them (300x300) https://www.youtube.com/watch?v=hfhJcIGH4o0
+- To create the thumbnail with gimp: crop the image to the ratio you want (eg. 1:1) then scale them (300x300)
+ https://www.youtube.com/watch?v=hfhJcIGH4o0
+- To update the website on siteground: log in, go to "siti web", "site tools", sito > gestione files, e aggiungere i file aggiornati
+alla cartella public_html
