@@ -7,12 +7,14 @@ This is the code of my portfolio that I will host in the siteground domain with 
 # TODO - CONTENT
 - Delete all the unecessary written parts
 - Delete work part
-- Add an enty image for every work
-- Add content for Cat Sudoku
+- Add an entry image for every work
 - Add content for XR Collaboration
 - Add content for One Piece mini game
 - Add content for shooter game with images
+- Add content for Journey to redemption
 - Convert all the images to jpg in order to reduce space on the DB and energy consumption
+- Add mini bar to watch the images from mobile
+- Fix behaviour of second slide that become bigger with less images 
 
 # TODO - ABOUT
 - add capabilities written in short
