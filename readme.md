@@ -12,6 +12,7 @@ This is the code of my portfolio that I will host in the siteground domain with 
 - Add content for One Piece mini game
 - Add content for shooter game with images
 - Add content for Journey to redemption
+- Add small images with link for github and itch.io
 - Convert all the images to jpg in order to reduce space on the DB and energy consumption
 - Add mini bar to watch the images from mobile
 - Fix behaviour of second slide that become bigger with less images 
